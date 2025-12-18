@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+.site-header {
+  background: #333;
+  color: #fff;
+  padding: 10px 20px;
+}
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
+.content {
+  padding: 20px;
+}
+@media (max-width: 600px) {
+  .main-nav ul {
+    flex-direction: column;
+  }
+}
