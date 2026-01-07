@@ -1,0 +1,3 @@
+Reflection
+
+The hardest part was figuring out how to replace my custom CSS with Bootstrap classes, but once I understood how the card and utility classes worked, styling became much faster. Using Bootstrap helped keep everything consistent and responsive without writing extra CSS. I could see myself using Bootstrap in future projects when I want quick, clean layouts, but I might write custom CSS if I needed a very unique design.
